@@ -1,6 +1,6 @@
 resource "google_project" "my_project" {
   name       = "My Project"
-  project_id = "	calm-mariner-344718"
+  project_id = "calm-mariner-344718"
   org_id     = "dareit"
 }
 
